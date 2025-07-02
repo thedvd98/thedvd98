@@ -12,7 +12,7 @@
 - 🧠 Hacking challenge on [hackthebox](https://app.hackthebox.com/profile/39960), hackthissite and overthewire
 - 🧙 **Functional programming enthusiast** – from Scheme to OCaml.
 - 🧪 Constantly debugging and troubleshooting random things
-- 🖥️ Thinkering with my operating system, currently running **Guix System**
+- 🖥️ Tinkering with my operating system, currently running **Guix System**
 
 ---
 
