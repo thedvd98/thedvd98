@@ -3,7 +3,7 @@
 - 🔭 I’m currently working @ SARMAP, tinkering with infrastructure and legacy code.
 - 🌱 Learning **Infrastructure-as-Code** with `Terraform`.
 - 🤝 Always up for pairing on programming, DevOps, or reverse engineering stuff.
-- 📫 You can reach me on telegram https://t.me/Dvd98
+- 📫 You can reach me on [telegram](https://t.me/Dvd98)
 
 ---
 
